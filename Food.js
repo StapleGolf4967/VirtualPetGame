@@ -12,8 +12,6 @@ class Food {
         
         if(x <= 0){
             x=0;
-        }else{
-            x=x-1;
         }
         foodS = x;
           
